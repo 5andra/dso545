@@ -1,2 +1,2 @@
-# dso545
+# DSO545
 USC MSBA DSO 545
